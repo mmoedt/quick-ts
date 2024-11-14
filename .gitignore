@@ -1,0 +1,8 @@
+# emacs backup files:
+*~
+
+# general manual backup files:
+*.bak
+bin
+deno.lock
+dist
